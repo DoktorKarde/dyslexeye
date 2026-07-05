@@ -1,0 +1,23 @@
+# Build output
+build/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Runtime
+logs/
+archive/
+config.json
+
+# Int*.zip
+/ dev
+APP_INSTRUCTIONS.md
+DyslexEye.md
+patch_reader.py
+TextReaderTest.png
+dist/ 
+dist/ 
+dist/ 
